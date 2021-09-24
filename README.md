@@ -4,11 +4,19 @@
 
 If you want to contact me:
 
-- **Telegram:** @L4wl13t0
-- **Discord:** Lawliet#3087
-- **ArtStation:** [Lawliet](https://www.artstation.com/l4wl13t)
+- ⚙ **Telegram:** @L4wl13t0
+- 🎙 **Discord:** Lawliet#3087
+- 📁 **ArtStation:** [L4wl13t](https://www.artstation.com/l4wl13t)
 
 ***
-![Lawliet]
+## Stats:
+![Lawliet's TryHackMe stats](https://raw.githubusercontent.com/L4wl13t-0/L4wl13t-0/main/L4wl13t_thm.png)
+
+
+![Lawliet's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4wl13t-0)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4wl13t-0&langs_count=8)
+
 
 > Hey, it's not impossible
