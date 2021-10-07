@@ -10,7 +10,7 @@ If you want to contact me:
 
 ***
 ## Stats:
-![Lawliet's TryHackMe stats](https://raw.githubusercontent.com/L4wl13t-0/L4wl13t-0/main/L4wl13t_thm.png)
+![Lawliet's TryHackMe stats](https://raw.githubusercontent.com/L4wl13t-0/L4wl13t-0/main/L4wl13t_thm_wizzard.png)
 
 
 ![Lawliet's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4wl13t-0)
