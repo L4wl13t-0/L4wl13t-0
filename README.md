@@ -15,10 +15,10 @@ If you want to contact me:
 ![Lawliet's TryHackMe stats](https://raw.githubusercontent.com/L4wl13t-0/L4wl13t-0/main/L4wl13t_thm_master.png)
 
 
-![Lawliet's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4wl13t-0)
+![Lawliet's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4wl13t-0&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4wl13t-0&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4wl13t-0&langs_count=5&layout=compact)
 
 
 > Hey, it's not impossible
