@@ -1,6 +1,6 @@
 ## **Lawliet's Profile** 💻
 
-**Who I am?** well, I am a fan of the whole world of technology, I have knowledge of programming, hacking and 3D modeling. My main projects are RP servers for SAMP, Discord bots, scripts of all kinds and APIs.
+**Who I am?** well, Fullstack and automation developer, main Python and Samp developer. Management of Rest API, relational and non-relational databases and pentesting.
 
 If you want to contact me:
 
